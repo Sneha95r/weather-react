@@ -11,7 +11,7 @@
     "react-scripts": "3.3.0"
   },
   "engines": {
-  "node": "16.x"
+  "node": "24.x"
 },
 
   "scripts": {
